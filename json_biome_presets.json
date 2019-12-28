@@ -1,0 +1,46 @@
+[
+    {
+        "name": "overworld_on_land",
+        "whitelist": [
+            "overworld",
+            "overworld_generation"
+        ],
+        "blacklist": [
+            "ocean",
+            "river",
+            "lakes"
+        ]
+    },
+    {
+        "name": "overworld_in_water",
+        "whitelist": [
+            "ocean",
+            "river",
+            "lakes"
+        ]
+    },
+    {
+        "name": "mountainous",
+        "whitelist": [
+            "extreme_hills",
+            "mountain",
+            "stone"
+        ]
+    },
+    {
+        "name": "beach",
+        "whitelist": [
+            "beach",
+            "shore"
+        ]
+    },
+    {
+        "name": "cold",
+        "whitelist": [
+            "cold",
+            "frozen",
+            "ice",
+            "ice_plains"
+        ]
+    }
+]

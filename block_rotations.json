@@ -1,0 +1,156 @@
+{
+    "re-id": {
+        "stairs": [
+            "minecraft:normal_stone_stairs",
+            "minecraft:stone_stairs",
+            "minecraft:mossy_cobblestone_stairs",
+            "minecraft:oak_stairs",
+            "minecraft:spruce_stairs",
+            "minecraft:birch_stairs",
+            "minecraft:jungle_stairs",
+            "minecraft:acacia_stairs",
+            "minecraft:dark_oak_stairs",
+            "minecraft:stone_brick_stairs",
+            "minecraft:mossy_stone_brick_stairs",
+            "minecraft:sandstone_stairs",
+            "minecraft:smooth_sandstone_stairs",
+            "minecraft:red_sandstone_stairs",
+            "minecraft:smooth_red_sandstone_stairs",
+            "minecraft:granite_stairs",
+            "minecraft:polished_granite_stairs",
+            "minecraft:diorite_stairs",
+            "minecraft:polished_diorite_stairs",
+            "minecraft:andesite_stairs",
+            "minecraft:polished_andesite_stairs",
+            "minecraft:brick_stairs",
+            "minecraft:nether_brick_stairs",
+            "minecraft:red_nether_brick_stairs",
+            "minecraft:end_brick_stairs",
+            "minecraft:quartz_stairs",
+            "minecraft:smooth_quartz_stairs",
+            "minecraft:purpur_stairs",
+            "minecraft:prismarine_stairs",
+            "minecraft:dark_prismarine_stairs",
+            "minecraft:prismarine_bricks_stairs"
+        ],
+        "fence_gates": [
+            "minecraft:fence_gate",
+            "minecraft:spruce_fence_gate",
+            "minecraft:birch_fence_gate",
+            "minecraft:jungle_fence_gate",
+            "minecraft:acacia_fence_gate",
+            "minecraft:dark_oak_fence_gate"
+        ],
+        "trap_doors": [
+            "minecraft:trapdoor",
+            "minecraft:spruce_trapdoor",
+            "minecraft:birch_trapdoor",
+            "minecraft:jungle_trapdoor",
+            "minecraft:acacia_trapdoor",
+            "minecraft:dark_oak_trapdoor",
+            "minecraft:iron_trapdoor"
+        ],
+        "ladders": [
+            "minecraft:ladder"
+        ],
+        "vines": [
+            "minecraft:vine"
+        ],
+        "furnaces": [
+            "minecraft:furnace",
+            "minecraft:blast_furnace",
+            "minecraft:smoker"
+        ],
+        "chests": [
+            "minecraft:chest",
+            "minecraft:trapped_chest",
+            "minecraft:ender_chest"
+        ],
+        "anvils": [
+            "minecraft:anvil"
+        ],
+        "beds": [
+            "minecraft:bed"
+        ],
+        "grindstones": [
+            "minecraft:grindstone"
+        ],
+        "barrels": [
+            "minecraft:barrel"
+        ],
+        "lecturns": [
+            "minecraft:lectern"
+        ],
+        "stonecutters": [
+            "minecraft:stonecutter_block"
+        ],
+        "end_portal_frames": [
+            "minecraft:end_portal_frame"
+        ],
+        "frames": [
+            "minecraft:frame"
+        ]
+    },
+    "rotations": {
+        "frames": {
+            "rotation_tag": "facing_direction",
+            "rotations": "2534"
+        },
+        "end_portal_frames": {
+            "rotation_tag": "direction",
+            "rotations": "2301"
+        },
+        "stonecutters": {
+            "rotation_tag": "facing_direction",
+            "rotations": "2534"
+        },
+        "lecterns": {
+            "rotation_tag": "direction",
+            "rotations": "2301"
+        },
+        "barrels": {
+            "rotation_tag": "facing_direction",
+            "rotations": "2534"
+        },
+        "grindstones": {
+            "rotation_tag": "direction",
+            "rotations": "2301"
+        },
+        "beds": {
+            "rotation_tag": "direction",
+            "rotations": "0123"
+        },
+        "anvils": {
+            "rotation_tag": "facing_direction",
+            "rotations": "1230"
+        },
+        "chests": {
+            "rotation_tag": "facing_direction",
+            "rotations": "2534"
+        },
+        "furnaces": {
+            "rotation_tag": "facing_direction",
+            "rotations": "2534"
+        },
+        "vines": {
+            "rotation_tag": "vine_direction_bits",
+            "rotations": "1248"
+        },
+        "ladders": {
+            "rotation_tag": "direction",
+            "rotations": "2534"
+        },
+        "trap_doors": {
+            "rotation_tag": "direction",
+            "rotations": "3021"
+        },
+        "fence_gates": {
+            "rotation_tag": "direction",
+            "rotations": "0123"
+        },
+        "stairs": {
+            "rotation_tag": "weirdo_direction",
+            "rotations": "2130"
+        }
+    }
+}

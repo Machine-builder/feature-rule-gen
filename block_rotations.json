@@ -121,7 +121,7 @@
             "rotations": "0123"
         },
         "anvils": {
-            "rotation_tag": "facing_direction",
+            "rotation_tag": "direction",
             "rotations": "1230"
         },
         "chests": {
@@ -137,7 +137,7 @@
             "rotations": "1248"
         },
         "ladders": {
-            "rotation_tag": "direction",
+            "rotation_tag": "facing_direction",
             "rotations": "2534"
         },
         "trap_doors": {

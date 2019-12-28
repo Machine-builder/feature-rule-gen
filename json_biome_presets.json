@@ -30,8 +30,7 @@
     {
         "name": "beach",
         "whitelist": [
-            "beach",
-            "shore"
+            "beach"
         ]
     },
     {

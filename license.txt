@@ -23,7 +23,7 @@ This software is provided free for all to use,
 however, it did take hours of work for me to program,
 so a donation, even small, is greatly appreciated.
 You can donate here :
-https://paypal.me/machine_builder
+https://www.paypal.me/machine_builder
 
 -----
 

@@ -8,8 +8,9 @@ Release Timestamp : 10:00PM 28th December, 2019 (22:00-28/12/19)
 
 
 
-Original download source :
-https://machinebuilder-dl.weebly.com/programs.html
+Original download source(s) :
+- https://machinebuilder-dl.weebly.com/programs.html
+- https://machine-builder.github.io/
 
 (If you downloaded this software from anywhere but that website,
 do not hesitate to contact me on Discord. My username is

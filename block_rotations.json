@@ -89,9 +89,59 @@
         ],
         "frames": [
             "minecraft:frame"
+        ],
+        "repeaters": [
+            "minecraft:unpowered_repeater",
+            "minecraft:powered_repeater"
+        ],
+        "comparators": [
+            "minecraft:unpowered_comparator",
+            "minecraft:powered_comparator"
+        ],
+        "observers": [
+            "minecraft:observer"
+        ],
+        "hoppers": [
+            "minecraft:hopper"
+        ],
+        "buttons": [
+            "minecraft:wooden_button",
+            "minecraft:spruce_button",
+            "minecraft:birch_button",
+            "minecraft:acacia_button",
+            "minecraft:dark_oak_button",
+            "minecraft:stone_button"
+        ],
+        "pistons": [
+            "minecraft:piston",
+            "minecraft:sticky_piston"
         ]
     },
     "rotations": {
+        "pistons": {
+            "rotation_tag": "facing_direction",
+            "rotations": "3425"
+        },
+        "buttons": {
+            "rotation_tag": "facing_direction",
+            "rotations": "2534"
+        },
+        "hoppers": {
+            "rotation_tag": "facing_direction",
+            "rotations": "3425"
+        },
+        "observers": {
+            "rotation_tag": "facing_direction",
+            "rotations": "3425"
+        },
+        "comparators": {
+            "rotation_tag": "direction",
+            "rotations": "2301"
+        },
+        "repeaters": {
+            "rotation_tag": "direction",
+            "rotations": "2301"
+        },
         "frames": {
             "rotation_tag": "facing_direction",
             "rotations": "2534"

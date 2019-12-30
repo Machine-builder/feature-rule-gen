@@ -1,38 +1,1 @@
------
-
-Program name : Feature Rule Generator
-Software Author : MACHINE_BUILDER
-Release Timestamp : 10:00PM 28th December, 2019 (22:00-28/12/19)
-
------
-
-
-
-Original download source(s) :
-- https://machinebuilder-dl.weebly.com/programs.html
-- https://machine-builder.github.io/
-
-(If you downloaded this software from anywhere but that website,
-do not hesitate to contact me on Discord. My username is
-MACHINE_BUILDER#2245, please provide a link to the site
-where you downloaded this from so that I can contact the owner.)
-
------
-
-This software is provided free for all to use,
-however, it did take hours of work for me to program,
-so a donation, even small, is greatly appreciated.
-You can donate here :
-https://www.paypal.me/machine_builder
-
------
-
-This software is owned by MACHINE_BUILDER on YouTube
-https://www.youtube.com/channel/UC8FBQgo4AWwKFX97h60NKOQ
-Anyone claiming to be me, or the creator of this software,
-will be requested to take down any download link they provide.
-
------
-
-You may not copy, claim, redistribute, or edit this program
-with permission from the owner, MACHINE_BUILDER.
+-----Program name : Feature Rule GeneratorSoftware Author : MACHINE_BUILDERRelease Timestamp : 10:00PM 28th December, 2019 (22:00-28/12/19)-----Original download source(s) :- https://machinebuilder-dl.weebly.com/programs.html- https://machine-builder.github.io/(If you downloaded this software from anywhere but that website,do not hesitate to contact me on Discord. My username isMACHINE_BUILDER#2245, please provide a link to the sitewhere you downloaded this from so that I can contact the owner.)-----This software is provided free for all to use,however, it did take hours of work for me to program,so a donation, even small, is greatly appreciated.You can donate here :https://www.paypal.me/machine_builder-----This software is owned by MACHINE_BUILDER on YouTubehttps://www.youtube.com/channel/UC8FBQgo4AWwKFX97h60NKOQAnyone claiming to be me, or the creator of this software,will be requested to take down any download link they provide.-----You may not copy, claim, redistribute, or edit this programwithout permission from the owner, MACHINE_BUILDER.
